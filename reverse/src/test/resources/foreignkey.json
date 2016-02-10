@@ -1,0 +1,10 @@
+{
+  "exported": "product",
+  "references": [
+    {"table": "product"},
+    {"table": "id"}
+  ],
+  "update": "SET NULL",
+  "constraint": "fk_annonce_product",
+  "delete": "CASCADE"
+}
