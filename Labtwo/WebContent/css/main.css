@@ -1,0 +1,230 @@
+@CHARSET "UTF-8";
+/**
+ * FEC7CE
+ * 9A0511
+ * 
+ * 
+ * B9CCE3
+ * 386190
+ */
+ 
+ hr{
+ 	size:2px;
+ }
+ 
+fieldset{
+	padding: 10px;
+	margin-bottom:15px;
+	border: 2px solid #91031D;
+}
+legend{
+	font-decoration:none;
+	width:auto;
+	margin-bottom:0px;
+	border:none;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+fieldset legend{
+	color: #91031D;
+}
+input{
+	width: 50%;
+	border-radius:6px;
+}
+
+ 
+div.tag{
+	display:inline-block;
+	vertical-align:bottom;
+}
+
+.partone input[type="text"], .partone input[type="password"]{
+	margin-bottom: 20px;
+	background-color:#FEC7CE;
+	color:#730217;
+	display:inline-block;
+	border: 2px solid #91031D;
+}
+.partone input[type="radio"]{
+	margin:0px;
+	display: inline-block;
+	vertical-align:center;
+    height: 1.3em;
+}
+
+
+.partone input[type="submit"]{
+	width: 20%;
+	background-color:#FEC7CE;
+	color:#730217;
+	border: 2px solid #91031D;
+}
+
+/****************** Only for men **********************/
+
+fieldset.male{
+	border: 2px solid #386190;
+}
+fieldset.male legend.male{
+	color: #386190;
+}
+
+.partone fieldset.male input[type="text"]{
+	border: 2px solid #386190;
+	background-color: #B9CCE3;
+	color: #386190;
+}
+
+.partone fieldset.male + input[type="submit"]{
+	width: 20%;
+	background-color:#B9CCE3;
+	color:#386190;
+	border: 2px solid #386190
+
+}
+
+/****************** Part 2 **********************/
+
+.parttwo ul li{
+	list-style-type: none;
+}
+
+.parttwo ul li input{
+	padding: 5px;
+	background-color:#C7EECF;
+	border: 2px solid #09600B;
+	margin-bottom:10px;
+	color:#09600B;
+}
+
+.parttwo span.badge{
+	margin-left:20px;
+	background-color:#09600B;
+	font-size:1.2em;
+}
+
+#divtest{
+	background-color:#09600B; /*#C7EECF; #5CB85C;*/
+	color:white;
+	font-size:1.6em;
+	text-align:center;
+	border-radius:6px;
+	margin-bottom:10px;
+}
+
+/***************** part 3 ********************/
+
+.partthree input{
+	padding: 10px;
+	border: 2px solid #9B6415;
+	background-color: #FFFED1;
+	color: #9B6415;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+
+.partthree input:focus{
+	box-shadow: 2px 2px 20px #FEEAA0;
+}
+
+.partthree span.ajaxflag.succes{
+	color: #09600B ;
+	background-color:#C7EECF;
+	border-radius: 5px;
+	margin:10px;
+	padding:10px;
+	display:none;
+}
+
+.partthree span.ajaxflag.failure{
+	color: #91031D;
+	margin:10px;
+	padding:10px;
+	background-color:#FEC7CE;
+	border-radius: 5px;
+	display:none;
+}
+
+
+
+/***************** part 4 ********************/
+
+.partfour input{
+	margin-top:10px;
+	margin-bottom:20px;
+	padding:10px;
+	background-color:#FFD6FA;
+	color:#7C1587;
+	border: 2px solid #7C1587;
+}
+
+.partfour form{
+	margin-bottom:400px;
+}
+
+.partfour input:focus{
+	box-shadow: 2px 2px 20px #FFD6FA;
+}
+
+.partfour span.badge{
+	margin-left:20px;
+	border-radius:6px;
+	background-color:#7C1587;
+	font-size:1.2em;
+	padding: 13px;
+}
+
+
+.ui-corner-all
+{
+    -moz-border-radius: 4px 4px 4px 4px;
+}
+.ui-widget-content
+{
+    border: 5px solid white;
+    border-radius:10px;
+    color: #7C1587;
+    background-color: #FFD6FA;
+}
+.ui-menu
+{
+    display: block;
+    float: left;
+    list-style: none outside none;
+    margin: 0;
+    padding: 2px;
+}
+.ui-autocomplete
+{
+    cursor: default;
+    position: absolute;
+}
+.ui-menu .ui-menu-item
+{
+    clear: left;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.ui-menu .ui-menu-item a
+{
+    display: block;
+    padding: 3px 3px 3px 3px;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: Green;
+}
+.ui-menu .ui-menu-item li:hover
+{
+    display: block;
+    padding: 3px 3px 3px 3px;
+    text-decoration: none;
+    color: White;
+    cursor: pointer;
+    background-color: ButtonText;
+}
+
+.ui-helper-hidden-accessible { display:none; }
