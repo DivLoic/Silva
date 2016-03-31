@@ -1,7 +1,7 @@
 # Silva
 ##### Java trick & tips modules
 
-This project is a place for me to groop a few projects & code examples in Java :star2:.    
+This project is a place for me to groop a few projects & code examples in Java :coffee:.    
 Game, Webapp or even utilities functions like HIVE UDF *(User-defined function)*.     
 You will find a similar project using the programming laguage Python: [Argol](https://github.com/DivLoic/Argol)
 
