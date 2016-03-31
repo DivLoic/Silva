@@ -16,10 +16,11 @@ You will find a similar project using the programming laguage Python: [Argol](ht
   - Mockito
 
 #### A Few projects:
+Here is a few title names the most importants projects.
 - [X] Flatracing
 - [X] Reverse
 - [ ] Isepapp
-- [ ] Bamboo
+- [X] Bamboo
 
 #### About the project name
 >Silva (シルバ Shiruba, Shilva) is a fictional character from [Shaman King](https://en.wikipedia.org/wiki/Shaman_King) He is the 
