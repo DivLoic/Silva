@@ -1,0 +1,17 @@
+industry,season,ratio
+Education,WINTER,49.4558152795
+Education,AUTUMN,50.2533932526
+Education,SPRING,52.8670349976
+Education,SUMMER,59.7216345381
+Commercial Property,AUTUMN,109.140407874
+Commercial Property,WINTER,115.552683121
+Commercial Property,SPRING,121.860600182
+Commercial Property,SUMMER,134.317169258
+Food Sales & Storage,WINTER,278.465446131
+Food Sales & Storage,AUTUMN,292.341505588
+Food Sales & Storage,SPRING,312.841578989
+Food Sales & Storage,SUMMER,358.074345503
+Light Industrial,WINTER,2051.96315678
+Light Industrial,SPRING,2102.53981548
+Light Industrial,AUTUMN,2315.32341343
+Light Industrial,SUMMER,2441.62428432

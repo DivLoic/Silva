@@ -1,0 +1,209 @@
+week,industry,total
+1,Education,245.560212122
+1,Commercial Property,2008.32719581
+1,Food Sales & Storage,421.071652122
+1,Light Industrial,1762.4157548
+2,Commercial Property,2249.39320925
+2,Education,283.33870672
+2,Food Sales & Storage,419.035906958
+2,Light Industrial,1886.78232453
+3,Light Industrial,2025.68293835
+3,Commercial Property,2359.44880386
+3,Education,275.879838429
+3,Food Sales & Storage,420.345448872
+4,Commercial Property,2332.99762417
+4,Light Industrial,2004.18416602
+4,Food Sales & Storage,423.404520883
+4,Education,273.993340061
+5,Commercial Property,2266.65279116
+5,Light Industrial,2025.90311172
+5,Food Sales & Storage,421.522816446
+5,Education,274.55669537
+6,Commercial Property,2310.31609702
+6,Food Sales & Storage,421.82208747
+6,Light Industrial,1960.91967065
+6,Education,293.370011829
+7,Commercial Property,2316.69415689
+7,Education,278.265833325
+7,Food Sales & Storage,418.551495143
+7,Light Industrial,1971.7458151
+8,Light Industrial,1953.97705039
+8,Commercial Property,2270.09363792
+8,Food Sales & Storage,420.516702697
+8,Education,256.247315929
+9,Commercial Property,2264.80393843
+9,Food Sales & Storage,420.135484665
+9,Light Industrial,1918.40824248
+9,Education,253.41574485
+10,Commercial Property,2228.56979473
+10,Light Industrial,1936.71361178
+10,Food Sales & Storage,422.012817776
+10,Education,253.823559568
+11,Commercial Property,2260.80175715
+11,Education,238.949133483
+11,Light Industrial,1985.54299273
+11,Food Sales & Storage,428.082380461
+12,Food Sales & Storage,427.269242786
+12,Light Industrial,2018.87838957
+12,Education,242.377507024
+12,Commercial Property,2342.51864128
+13,Education,256.268141247
+13,Light Industrial,1982.4807092
+13,Commercial Property,2226.39075258
+13,Food Sales & Storage,424.210787607
+14,Food Sales & Storage,420.755035264
+14,Education,200.337310216
+14,Commercial Property,2090.78194588
+14,Light Industrial,1870.23673351
+15,Food Sales & Storage,423.247424262
+15,Commercial Property,2122.1566391
+15,Education,241.125211496
+15,Light Industrial,1917.91066173
+16,Light Industrial,1949.538684
+16,Commercial Property,2126.41414394
+16,Food Sales & Storage,451.812255769
+16,Education,255.413441268
+17,Food Sales & Storage,438.914548117
+17,Commercial Property,2127.67831808
+17,Education,255.503931643
+17,Light Industrial,1918.8845698
+18,Food Sales & Storage,446.805874461
+18,Commercial Property,2265.54449481
+18,Education,283.666232374
+18,Light Industrial,2017.72290536
+19,Light Industrial,1942.08580671
+19,Education,285.129939208
+19,Food Sales & Storage,451.98763151
+19,Commercial Property,2217.12765727
+20,Commercial Property,2315.0226834
+20,Food Sales & Storage,456.27724752
+20,Education,303.253801656
+20,Light Industrial,1970.55654023
+21,Education,306.99641479
+21,Light Industrial,1998.13373251
+21,Commercial Property,2271.61571509
+21,Food Sales & Storage,469.511080394
+22,Food Sales & Storage,478.375592171
+22,Light Industrial,1898.1210338
+22,Commercial Property,2036.82648958
+22,Education,285.484706614
+23,Commercial Property,2258.23602434
+23,Food Sales & Storage,462.319240313
+23,Light Industrial,2038.90379654
+23,Education,260.925602428
+24,Food Sales & Storage,477.706872047
+24,Commercial Property,2375.54987244
+24,Light Industrial,2120.04164317
+24,Education,257.512924172
+25,Education,262.220855789
+25,Commercial Property,2461.12829342
+25,Light Industrial,2128.20279688
+25,Food Sales & Storage,498.93876766
+26,Food Sales & Storage,487.361383801
+26,Light Industrial,2074.50254168
+26,Commercial Property,2453.98889372
+26,Education,256.605088325
+27,Commercial Property,2263.80005955
+27,Education,269.859678284
+27,Light Industrial,1995.46586712
+27,Food Sales & Storage,509.243165243
+28,Education,260.244450244
+28,Commercial Property,2527.32282257
+28,Food Sales & Storage,517.028122251
+28,Light Industrial,2110.04904459
+29,Commercial Property,2537.84386759
+29,Education,278.942555518
+29,Light Industrial,2205.37892411
+29,Food Sales & Storage,507.084067314
+30,Light Industrial,2256.17990936
+30,Commercial Property,2564.43832246
+30,Education,290.784472087
+30,Food Sales & Storage,502.582255258
+31,Food Sales & Storage,526.438583329
+31,Commercial Property,2569.25967341
+31,Light Industrial,2300.42548776
+31,Education,300.877513
+32,Light Industrial,2170.38840957
+32,Education,308.445811923
+32,Commercial Property,2541.78256777
+32,Food Sales & Storage,554.425679888
+33,Education,320.889084498
+33,Light Industrial,2234.09908392
+33,Food Sales & Storage,531.868825549
+33,Commercial Property,2470.52369587
+34,Food Sales & Storage,511.697579172
+34,Commercial Property,2301.75573077
+34,Light Industrial,2107.11246842
+34,Education,324.133644112
+35,Commercial Property,2507.41990837
+35,Education,368.421129522
+35,Food Sales & Storage,507.060091836
+35,Light Industrial,2208.27533952
+36,Light Industrial,2165.79405109
+36,Education,357.982661141
+36,Food Sales & Storage,514.37897776
+36,Commercial Property,2310.67701873
+37,Light Industrial,2189.09397192
+37,Food Sales & Storage,494.641534003
+37,Education,324.848463346
+37,Commercial Property,2393.05842493
+38,Commercial Property,2234.1126296
+38,Light Industrial,2073.52956929
+38,Food Sales & Storage,480.981727267
+38,Education,313.043993594
+39,Education,312.396313599
+39,Commercial Property,2115.28876235
+39,Food Sales & Storage,466.238769849
+39,Light Industrial,2084.32965978
+40,Education,315.067549948
+40,Commercial Property,2140.78949429
+40,Food Sales & Storage,474.683971163
+40,Light Industrial,1977.34691499
+41,Education,267.795010029
+41,Food Sales & Storage,441.748988318
+41,Commercial Property,2105.18911047
+41,Light Industrial,2055.43860638
+42,Education,260.465725535
+42,Light Industrial,2039.52285857
+42,Commercial Property,2112.02611242
+42,Food Sales & Storage,458.176589315
+43,Education,265.143411023
+43,Light Industrial,2072.65275114
+43,Commercial Property,2133.91468617
+43,Food Sales & Storage,436.040063828
+44,Food Sales & Storage,426.537469834
+44,Light Industrial,2009.10876507
+44,Education,242.263317388
+44,Commercial Property,2031.25141483
+45,Commercial Property,2195.742432
+45,Food Sales & Storage,422.769910343
+45,Education,265.714395205
+45,Light Industrial,2068.46080659
+46,Food Sales & Storage,421.865918281
+46,Education,269.908019565
+46,Commercial Property,2116.98186983
+46,Light Industrial,2153.31415564
+47,Food Sales & Storage,415.159918149
+47,Commercial Property,1685.17632772
+47,Light Industrial,1613.76004909
+47,Education,208.393777529
+48,Commercial Property,2112.73514611
+48,Light Industrial,1962.82525792
+48,Food Sales & Storage,424.569312792
+48,Education,276.762200742
+49,Light Industrial,1983.30427515
+49,Commercial Property,2124.8332987
+49,Education,261.966568742
+49,Food Sales & Storage,427.851070555
+50,Food Sales & Storage,417.595219612
+50,Education,268.608850472
+50,Commercial Property,2176.5724414
+50,Light Industrial,1982.53798373
+51,Food Sales & Storage,417.356665929
+51,Light Industrial,1988.6498289
+51,Education,260.518555225
+51,Commercial Property,2164.69054352
+52,Light Industrial,1358.02509075
+52,Food Sales & Storage,398.458850286
+52,Commercial Property,1613.79745164
+52,Education,184.512585072
