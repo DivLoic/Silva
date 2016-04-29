@@ -9,7 +9,7 @@ You will find a similar project using the programming laguage Python: [Argol](ht
 - JDK 1.7 / 1.8
 - Maven
 - Junit
-- intelliJ
+- IntelliJ
 - & a few dependencies I always use:
   - JadaTime
   - Json
@@ -19,8 +19,14 @@ You will find a similar project using the programming laguage Python: [Argol](ht
 Here is a few title names the most importants projects.
 - [X] Flatracing
 - [X] Reverse
+- [X] Lab(one/two)
+- [ ] IsepPatterns
 - [ ] Isepapp
 - [X] Bamboo
+
+#### IntelliJ Configurations    
+(comming soon ...)    
+
 
 #### About the project name
 >Silva (シルバ Shiruba, Shilva) is a fictional character from [Shaman King](https://en.wikipedia.org/wiki/Shaman_King) He is the 
