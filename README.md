@@ -25,7 +25,7 @@ Here is a few title names the most importants projects.
 - [X] Bamboo
 
 #### IntelliJ Configurations    
-(comming soon ...)    
+(coming soon ...)    
 
 
 #### About the project name
