@@ -1,7 +1,7 @@
 FlatRacing
 ==========
 
-![picture](https://raw.githubusercontent.com/DivLoic/master/flatracing/src/resources/flatracing.png) 
+![picture](https://github.com/DivLoic/Silva/raw/master/flatracing/src/resources/flatracing.png)
 
 [flatracing.github.io/](http://flatracing.github.io/)      
 
